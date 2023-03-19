@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2023 [Gzf](https://github.gzf.cool) And [SIL3NT](https://github.com/HexLol)
+Copyright (c) 2023 [Gzf](https://github.gzf.cool) and [SIL3NT](https://github.com/HexLol)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
